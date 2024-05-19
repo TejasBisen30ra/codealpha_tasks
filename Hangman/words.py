@@ -1,0 +1,15 @@
+word_list = [
+    'alien',
+    'cat',
+    'dog',
+    'food',
+    'orange',
+    'colour',
+    'apple',
+    'blue',
+    'school',
+    'books',
+    'movie',
+    'laptop',
+    'computer',
+    ]
